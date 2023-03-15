@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb2f03f7-ca9c-49d7-bf48-9117d7414d4f" name="Changes" comment="JRTB-2 added stub telegram bot to the project">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb2f03f7-ca9c-49d7-bf48-9117d7414d4f" name="Changes" comment="JRTB-2: updated project version and added to RELEASE_NOTES" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +119,7 @@
       <workItem from="1678888103340" duration="898000" />
       <workItem from="1678889019159" duration="1227000" />
       <workItem from="1678890321468" duration="1277000" />
-      <workItem from="1678891618685" duration="313000" />
+      <workItem from="1678891618685" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="JRTB-0 add SpringBoot skeleton to the project">
       <created>1678883424667</created>
@@ -165,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678891642036</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JRTB-2: updated project version and added to RELEASE_NOTES">
+      <created>1678892249815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678892249815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +190,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JRTB-0 add SpringBoot skeleton to the project" />
     <MESSAGE value="JRTB-2 added stub telegram bot to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="JRTB-2 added stub telegram bot to the project" />
+    <MESSAGE value="JRTB-2: updated project version and added to RELEASE_NOTES" />
+    <option name="LAST_COMMIT_MESSAGE" value="JRTB-2: updated project version and added to RELEASE_NOTES" />
   </component>
 </project>
