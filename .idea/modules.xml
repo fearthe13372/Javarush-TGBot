@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Javarush-TGBot.iml" filepath="$PROJECT_DIR$/.idea/Javarush-TGBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javarush-telegrambot.iml" filepath="$PROJECT_DIR$/javarush-telegrambot.iml" />
     </modules>
   </component>
 </project>
